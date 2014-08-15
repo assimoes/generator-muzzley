@@ -1,15 +1,14 @@
 {
-  "name": "generator-muzzley-generator",
-  "version": "0.0.0",
-  "description": "Yeoman generator",
+  "name": "muzzley-generator",
+  "version": "0.0.1",
+  "description": "Yeoman Muzzley Generator",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "assimoes/generator-muzzley-generator",
-  "author": {
-    "name": "",
-    "email": "",
-    "url": "https://github.com/assimoes"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/assimoes/muzzley-generator"
   },
+  "author": " (https://github.com/assimoes)",
   "engines": {
     "node": ">=0.10.0"
   },
@@ -32,5 +31,12 @@
   },
   "peerDependencies": {
     "yo": ">=1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/assimoes/muzzley-generator/issues"
+  },
+  "homepage": "https://github.com/assimoes/muzzley-generator",
+  "directories": {
+    "test": "test"
   }
 }
