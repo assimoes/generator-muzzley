@@ -16,7 +16,7 @@ Or clone this repo, browse to the repo directory and
 npm link
 ```
 2. Create a Application @ https://www.muzzley.com with your Developer Account and copy the application's token
-3. Generate your Muzzley application:
+3. Generate your Muzzley application and follow the instructions (this includes pasting the application's token :P)
 ```
 yo muzzley-generator
 ```
